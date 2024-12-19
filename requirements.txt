@@ -1,0 +1,30 @@
+# Optimization and mathematical modeling
+gurobipy
+# Data manipulation and analysis
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+#Graph
+networkx
+
+# Web scraping and APIs
+requests
+nbimporter
+
+# Development and debugging
+ipython
+jupyter
+
+# JSON processing and serialization
+ujson
+
+# Performance optimization
+numba
+scipy
