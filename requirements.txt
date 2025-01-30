@@ -28,3 +28,4 @@ ujson
 # Performance optimization
 numba
 scipy
+ace_tools
