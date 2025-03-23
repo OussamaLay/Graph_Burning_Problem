@@ -1,0 +1,2 @@
+Graphe,V,sqrt(V),B_max,Recherche Profoncdeur,Cout RP,temps RP,Recherche Largeur,Cout RL,temps RL,Couverture des balles,Cout CB,temps CB
+karate,34,5.830951894845301,6,"[34, 1, 17]",3,6.211642175912857e-05,"[1, 33, 27]",3,0.2591288657858968,"[(32, 2), (17, 0)]",3,1.138843267224729

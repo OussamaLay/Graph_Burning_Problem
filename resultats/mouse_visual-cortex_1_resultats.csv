@@ -1,0 +1,2 @@
+Graphe,V,sqrt(V),B_max,Recherche Profoncdeur,Cout RP,temps RP,Recherche Largeur,Cout RL,temps RL,Couverture des balles,Cout CB,temps CB
+mouse_visual-cortex_1,29,5.385164807134504,6,"[9, 2, 1, 6]",4,5.4391101002693176e-05,"[1, 19, 22, 27]",4,1.9729247940704226,"[(28, 3), (10, 1)]",4,4.223937175236642

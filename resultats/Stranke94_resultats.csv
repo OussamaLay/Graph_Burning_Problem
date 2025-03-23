@@ -1,0 +1,2 @@
+Graphe,V,sqrt(V),B_max,Recherche Profoncdeur,Cout RP,temps RP,Recherche Largeur,Cout RL,temps RL,Couverture des balles,Cout CB,temps CB
+Stranke94,10,3.1622776601683795,4,"[3, 6]",3,3.5066157579422e-05,"[3, 1, 6]",3,0.0017966590821743011,"[(3, 2)]",3,0.0035201795399188995

@@ -1,0 +1,2 @@
+Graphe,V,sqrt(V),B_max,Recherche Profoncdeur,Cout RP,temps RP,Recherche Largeur,Cout RL,temps RL,Couverture des balles,Cout CB,temps CB
+polbooks,105,10.246950765959598,11,"[9, 85, 72, 105]",5,0.00016928836703300476,"[2, 31, 3, 35]",4,4798.034403271042,"[(4, 3), (31, 2)]",4,9764.264562459663

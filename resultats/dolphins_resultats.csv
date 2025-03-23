@@ -1,0 +1,2 @@
+Graphe,V,sqrt(V),B_max,Recherche Profoncdeur,Cout RP,temps RP,Recherche Largeur,Cout RL,temps RL,Couverture des balles,Cout CB,temps CB
+dolphins,62,7.874007874011811,8,"[15, 46, 18, 42, 61]",5,0.00012924149632453918,"[1, 18, 52, 61]",4,133.37569165602326,"[(9, 3), (14, 2)]",4,420.667955186218
